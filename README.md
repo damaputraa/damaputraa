@@ -47,3 +47,20 @@ class Tentang extends Saya
     }
 }
 ```
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/dama021/dama021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dama021&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Rachmad Ananda Damaputra GitHub Stats" />
+</a>
+
+<a href="https://github.com/ferdyrahmat/ferdyrahmat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dama021&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Rachmad Ananda Damaputra GitHub Stats" />
+</a>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dama021&theme=nord&column=7&v=2)](https://github.com/dama021)
+
+<!-- ## 👨‍💻 This week, I spent my time on:
+
+[![dama021 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dama021&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/dama021) -->
