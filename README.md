@@ -3,7 +3,7 @@
 ### Hi there, Aku Dama👦,
 I'm 21 Y/O seorang Web Developer🌈 and Fullstack Dev🎯 from Palangka Raya, Kalimantan Tengah. Indonesia.
 - 🌱 Bahasa Yang Di kuasai PHP, CSS dan Tailwind. Proses Belajar Laravel :)
-- 📫 Bisa Cek Sosmed aku [Instagram](https://instagram.com/dama.putra_) or Linktree [Linktree](https://linktr.ee.com/damaputra) 
+- 📫 Bisa Cek Sosmed aku [Instagram](https://instagram.com/dama.putra_) or Linktree [Linktree](https://linktr.ee/damaputra) 
 - 😄 Cowok
 
 ### Tentang Dama👦,
