@@ -53,13 +53,9 @@ class Tentang extends Saya
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damaputraa&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Rachmad Ananda Damaputra GitHub Stats" />
 </a>
 
-<a href="https://github.com/ferdyrahmat/ferdyrahmat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=damaputraa&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Rachmad Ananda Damaputra GitHub Stats" />
-</a>
-
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dama021&theme=nord&column=7&v=2)](https://github.com/dama021)
+[![trophy](https://github-profile-trophy.vercel.app/?username=damaputraa&theme=nord&column=7&v=2)](https://github.com/damaputraa)
 
 <!-- ## 👨‍💻 This week, I spent my time on:
 
