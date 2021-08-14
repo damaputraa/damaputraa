@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=dama021&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=damaputraa&show_icons=true">
 
 ### Hi there, Aku Dama👦,
 I'm 21 Y/O seorang Web Developer🌈 and Fullstack Dev🎯 from Palangka Raya, Kalimantan Tengah. Indonesia.
@@ -50,11 +50,11 @@ class Tentang extends Saya
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/dama021/dama021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dama021&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Rachmad Ananda Damaputra GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damaputraa&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Rachmad Ananda Damaputra GitHub Stats" />
 </a>
 
 <a href="https://github.com/ferdyrahmat/ferdyrahmat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dama021&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Rachmad Ananda Damaputra GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=damaputraa&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Rachmad Ananda Damaputra GitHub Stats" />
 </a>
 
 ## 🏆 GitHub Trophies
