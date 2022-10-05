@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=damaputraa&show_icons=true">
 
 ### Halo, Aku Dama👦,
-Umur 21th seorang Web Developer dan Fullstack Dev🎯 dari Palangka Raya, Kalimantan Tengah. Indonesia.
+Lahir 21 Juli 2000 seorang Web Developer dan Fullstack Dev🎯 dari Palangka Raya, Kalimantan Tengah. Indonesia.
 - 🌱 Bahasa Yang Di kuasai PHP. Proses Belajar Laravel :)
 - 📫 Bisa Cek Sosmed aku [Instagram](https://instagram.com/dama.putra_) or Linktree [Linktree](https://linktr.ee/damaputra) 
 
